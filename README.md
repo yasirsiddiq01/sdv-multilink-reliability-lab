@@ -1,3 +1,15 @@
+---
+title: SDV Multi-Link Reliability Lab
+emoji: 🚗
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.37.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # SDV Multi-Link Reliability Lab
 
 A research-oriented synthetic reliability demo for software-defined vehicle multi-link connectivity.
